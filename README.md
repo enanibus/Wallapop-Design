@@ -1,3 +1,3 @@
 # Wallapop-Design
 ### Sketch
-Prototyping & Design. Screenshots Wallapop application.
+Prototyping & Design. Screenshots Wallapop application. Assets collection included.
